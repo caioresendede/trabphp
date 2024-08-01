@@ -6,4 +6,5 @@ if (!$conexao) {
 } echo "Conectado com sucesso!";
 $mysqli_
 
+
 ?>

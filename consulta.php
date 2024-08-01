@@ -53,6 +53,8 @@
         while ($registro = mysqli_fetch_assoc($resultado)){
             echo " email: " . $registro["email"]. "<br>";
         }
+
+        
     } else {
         echo "Nenhum registro encontrado!"; }
 
